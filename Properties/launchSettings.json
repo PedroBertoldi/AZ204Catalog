@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Az204Catalog": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7152",
+      "launchBrowser": false
+    }
+  }
+}
